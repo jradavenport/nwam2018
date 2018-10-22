@@ -44,6 +44,21 @@
 		border-spacing: 0;
 	}
 
+	#invited-speakers-table{
+		width:100%;
+		align:center;
+		border-collapse:collapse;
+	}
+
+	#invited-speakers-table td{
+		width:25%;
+		padding:4px;
+		vertical-align:center;
+		text-align:center;
+	}
+
+
+
 	body {
 		-webkit-text-size-adjust: none;
 	}
